@@ -1,11 +1,10 @@
-# About Me
-
 ## Introduction
+Hello, I'm James Bray, an Aerospace Engineering student at the University of Sheffield. 
 
-Hello, I'm James Bray, an Aerospace Engineering student at the University of Sheffield. My journey in Aerospace Engineering is fueled by a strong passion for refining technical skills and gaining valuable industry insights. I am dedicated to making a meaningful contribution to the aerospace field and am always eager to connect with fellow aerospace enthusiasts, industry professionals, or mentors who share a similar interest in the advancements of aerospace technology. 🛰️🚀✈️
+This is my portfolio where I keep code for my projects, apps, and anything else I feel might be worth sharing. I teach myself different languages and use those to develop solutions which improves both my problem-solving and general software development skills. All of my code is open source and I encourage improvements and innovations.
 
-Feel free to reach out and connect with me! Let's explore the boundless possibilities of the aerospace world together.
+I have other (non-software based) projects on my [LinkedIn](https://www.linkedin.com/in/james-bray/), so please feel free to have a look at those.
 
 ## Proficiencies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Bray19&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Bray19&theme=dark&layout=compact)
