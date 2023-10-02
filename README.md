@@ -1,5 +1,5 @@
 # About Me
-Hello, I'm James Bray, an Aerospace Engineering student at the University of Sheffield. 
+Hi, I'm James Bray, an Aerospace Engineering student at the University of Sheffield. 
 
 This is my portfolio where I keep code for my projects, apps, and anything else I feel might be worth sharing. I am a self-taught programmer, constantly exploring different programming languages to craft solutions that enhance my problem-solving abilities and overall software development skills. All of my code is open source and I encourage improvements and innovations.
 
