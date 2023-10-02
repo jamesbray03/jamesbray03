@@ -7,4 +7,15 @@ I have other (non-software based) projects on my [LinkedIn](https://www.linkedin
 
 ## Proficiencies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Bray19&theme=dark&layout=compact)
+<div>
+  <table>
+    <tr>
+      <td style="vertical-align: middle;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Bray19&theme=dark&layout=compact" alt="Top Languages" />
+      </td>
+      <td style="vertical-align: middle;">
+        
+      </td>
+    </tr>
+  </table>
+</div>
