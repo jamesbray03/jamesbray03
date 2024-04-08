@@ -11,7 +11,7 @@ I have other (non-software based) projects on my [LinkedIn](https://www.linkedin
   <tr>
     <td>
       <p></p> <!-- Using this for spacing due to markdowns restrictions -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Bray19&theme=dark&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesbray03&theme=dark&layout=compact" alt="Top Languages" />
     </td>
     <td>
       <p></p>
